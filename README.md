@@ -10,5 +10,9 @@
 - ⚡ Fun fact: I love Pokémon competitive battles!
 
 # Personal projects
-- \[tool\] flash-cardenizer 
-- \[online board game\] undo ando
+
+| Project name     | Genre | Description                                                                    | 
+| ---------------- | ----- | ------------------------------------------------------------------------------ | 
+| [flash-cardenizer](https://flash-cardenizer.pages.dev/) | tool  | A website where you can freely convert any CSV into flashcards and review them | 
+| [undo ando](https://bodoge-fe.pages.dev/)        | game  | A board game for 4 players                                                     | 
+|                  |       |                                                                                | 
