@@ -1,10 +1,6 @@
 # Hi there 👋
 
-I’m currently on a career break and studying English in Toronto, Canada.
-
-I’m skilled in Golang, Scala, and TypeScript. For frontend development, I often work with React.
-
-As a personal project, I enjoy creating original online board games using Cloudflare
+As a personal project, I enjoy creating original online board games
 
 If you’re into creating or playing online board games, I’d love to collaborate or play together!
 
